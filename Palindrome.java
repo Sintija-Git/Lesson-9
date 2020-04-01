@@ -14,7 +14,6 @@ public class Palindrome {
 private String text;
 private String palindromeMessage;
 
-
 public Palindrome () {
 	text = "";
 	palindromeMessage = "";

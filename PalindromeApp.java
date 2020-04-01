@@ -12,6 +12,7 @@ The string is not a palindrome.
 The application should make use of instantiable classes.
 */
 public class PalindromeApp {
+	
 
 	public static void main(String[] args) {
 		//local variables to store users input

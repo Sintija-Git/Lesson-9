@@ -15,6 +15,8 @@ public class Person {
 	private int age;
 	private boolean enjoysReading;
 	
+	
+	
 	//constructors as we know cannot be the same - we have to create different (with + / - values etc.)
 	
 	public Person () {} //default constructor is empty and gives our variables default value
@@ -61,5 +63,6 @@ public class Person {
 		return enjoysReading;
 	}
 		
+	
 	
 } //end class

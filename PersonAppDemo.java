@@ -5,10 +5,12 @@ Develop an application which creates multiple objects of type Person class
 Store them in an array, retrieve the objects from the array and call different methods on these objects.
 */
 public class PersonAppDemo {
+	
 
 	public static void main(String[] args) {
 		//declare an array of type Person
 		Person people[];
+		
 		
 		int n; //to store the number of obj/persons to be created
 		
